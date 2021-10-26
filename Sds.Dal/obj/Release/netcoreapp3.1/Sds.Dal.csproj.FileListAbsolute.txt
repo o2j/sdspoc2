@@ -1,0 +1,12 @@
+C:\Users\M1YXL06\source\repos\FOMC-Portal\Src\FrbFunctions\Sds.Dal\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\M1YXL06\source\repos\FOMC-Portal\Src\FrbFunctions\Sds.Dal\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\M1YXL06\source\repos\FOMC-Portal\Src\FrbFunctions\Sds.Dal\bin\Release\netcoreapp3.1\Sds.Dal.deps.json
+C:\Users\M1YXL06\source\repos\FOMC-Portal\Src\FrbFunctions\Sds.Dal\bin\Release\netcoreapp3.1\Sds.Dal.dll
+C:\Users\M1YXL06\source\repos\FOMC-Portal\Src\FrbFunctions\Sds.Dal\bin\Release\netcoreapp3.1\Sds.Dal.pdb
+C:\Users\M1YXL06\source\repos\FOMC-Portal\Src\FrbFunctions\Sds.Dal\obj\Release\netcoreapp3.1\Sds.Dal.csproj.AssemblyReference.cache
+C:\Users\M1YXL06\source\repos\FOMC-Portal\Src\FrbFunctions\Sds.Dal\obj\Release\netcoreapp3.1\Sds.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M1YXL06\source\repos\FOMC-Portal\Src\FrbFunctions\Sds.Dal\obj\Release\netcoreapp3.1\Sds.Dal.AssemblyInfoInputs.cache
+C:\Users\M1YXL06\source\repos\FOMC-Portal\Src\FrbFunctions\Sds.Dal\obj\Release\netcoreapp3.1\Sds.Dal.AssemblyInfo.cs
+C:\Users\M1YXL06\source\repos\FOMC-Portal\Src\FrbFunctions\Sds.Dal\obj\Release\netcoreapp3.1\Sds.Dal.csproj.CoreCompileInputs.cache
+C:\Users\M1YXL06\source\repos\FOMC-Portal\Src\FrbFunctions\Sds.Dal\obj\Release\netcoreapp3.1\Sds.Dal.dll
+C:\Users\M1YXL06\source\repos\FOMC-Portal\Src\FrbFunctions\Sds.Dal\obj\Release\netcoreapp3.1\Sds.Dal.pdb
